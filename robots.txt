@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://habeyisayete.pages.dev/sitemap.xml
